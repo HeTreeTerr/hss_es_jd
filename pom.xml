@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <elasticsearch.version>7.1.1</elasticsearch.version>
         <fastjson.version>1.2.54</fastjson.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
     </properties>
 
     <dependencies>
